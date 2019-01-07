@@ -1,0 +1,10 @@
+{
+  "name": "rails-auth-token3",
+  "private": true,
+  "dependencies": {
+    "react-router-redux": "^4.0.8"
+  },
+  "devDependencies": {
+    "react-router-redux": "^4.0.8"
+  }
+}

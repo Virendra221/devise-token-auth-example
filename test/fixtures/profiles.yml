@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  father_name,: MyString
+  age: 
+  married: 
+
+two:
+  father_name,: MyString
+  age: 
+  married: 
